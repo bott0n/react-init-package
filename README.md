@@ -13,5 +13,9 @@ This is use to build a clean react folder
 ```
 npm run dev
 ```
+# Build 
+```
+npm run build
+```
   
 
