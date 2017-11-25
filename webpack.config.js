@@ -1,4 +1,4 @@
-// 讓你可以動態插入 bundle 好的 .js 檔到 .index.html
+// 讓你可以動態插入 bundle 好的 .js 檔到 .index.html 
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 const HTMLWebpackPluginConfig = new HtmlWebpackPlugin({
